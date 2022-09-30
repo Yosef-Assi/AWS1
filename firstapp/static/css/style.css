@@ -1,0 +1,32 @@
+.flex{
+    display: flex;
+    margin-top: 4%;
+    justify-content: space-between;
+}
+.box {
+    width: 250px;
+    height: 220px;
+    border: 2px solid black;
+}
+h2{
+    color: red;
+}
+.box h3,p{
+    margin-top: 40px;
+    text-align: center;
+}
+.box button {
+    margin-left:33%;
+    box-shadow: 2px 2px  black;
+}
+.bot {
+    height: 150px;
+    border: 2px solid rgb(153, 19, 19);
+    overflow: scroll;
+}
+.red {
+    color:red
+}
+.green {
+    color:green
+}
